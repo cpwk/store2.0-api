@@ -13,7 +13,7 @@ public class Admin {
     @Column(name = "id")
     private Integer id;
 
-    @Column(name = "username")
+    @Column(name = "user_name")
     private String username;
 
     @Column(name = "name")
